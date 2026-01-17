@@ -20,7 +20,7 @@
 		"mdsvex": "^0.12.3",
 		"normalize.css": "^8.0.1",
 		"svelte": "^5.46.4",
-		"svelte-pathfinder": "^4.8.1",
+		"svelte-pathfinder": "0dataapp/svelte-pathfinder",
 		"vite": "^7.0.4",
 		"vitest": "^3.2.3"
 	}
